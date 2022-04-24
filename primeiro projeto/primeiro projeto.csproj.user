@@ -5,5 +5,8 @@
     <Compile Update="Component1.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Update="Component2.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
